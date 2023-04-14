@@ -1,5 +1,7 @@
 ### Hello there 👋
 
+### Soc un estudiant de segon de CFGS DAW amb titulació de CFGS DAM
+
 <!--
 **Oriol25/Oriol25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
