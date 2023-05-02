@@ -2,6 +2,14 @@
 
 ### Soc un estudiant de segon de CFGS DAW amb titulació de CFGS DAM
 
+### Estic aprenent les seguents tecnologies! 💻
+
+&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" title="JavaScript" width="10%"/>](https://developer.mozilla.org/es/docs/Web/JavaScript)&nbsp;
+&nbsp;[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="10%"/>](https://www.w3schools.com/css/)&nbsp;
+&nbsp;[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="10%"/>](https://developer.mozilla.org/es/docs/Web/HTML)&nbsp;
+&nbsp;[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="10%"/>](https://git-scm.com/)&nbsp;
+&nbsp;[<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" title="Docker" width="10%"/>](https://www.docker.com/)&nbsp;
+
 <!--
 **Oriol25/Oriol25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
